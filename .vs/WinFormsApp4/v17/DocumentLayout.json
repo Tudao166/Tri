@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|d:\\winformsapp4 (2) (1)\\winformsapp4 (1)\\winformsapp4\\faddcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\faddcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|d:\\winformsapp4 (2) (1)\\winformsapp4 (1)\\winformsapp4\\fcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\fcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\fchitiettindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\fchitiettindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\fchangetindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\fchangetindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|d:\\winformsapp4 (2) (1)\\winformsapp4 (1)\\winformsapp4\\faddtindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\faddtindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|d:\\winformsapp4 (2) (1)\\winformsapp4 (1)\\winformsapp4\\chitiettindangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\chitiettindangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\usercontrolquanlytindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\usercontrolquanlytindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\usercontrolquanlytindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\usercontrolquanlytindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\usercontroltindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\usercontroltindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\fchangetindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\fchangetindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\fnguoiungtuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\fnguoiungtuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\tindangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\tindangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\flichsudangtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\flichsudangtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__WINFORMSAPP4__2___1__WINFORMSAPP4__1__WINFORMSAPP4_DATABASEXINVIEC.MDF/True/SqlTable/dbo.CongTy.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\usercontrolketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\usercontrolketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\usercontrollichsuungtuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\usercontrollichsuungtuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\winformsapp4\\fchitiettindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B45E9F-5020-4C96-ACA8-AF279C9D2549}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\fchitiettindang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FAddCongTy.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FAddCongTy.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FAddCongTy.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FAddCongTy.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\FAddCongTy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:42:43.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FCongTy.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FCongTy.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FCongTy.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FCongTy.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\FCongTy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:42:41.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FAddTinDang.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FAddTinDang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FAddTinDang.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FAddTinDang.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\FAddTinDang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:24:01.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietTinDangDAO.cs",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\ChiTietTinDangDAO.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\ChiTietTinDangDAO.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\ChiTietTinDangDAO.cs",
+              "RelativeToolTip": "WinFormsApp4\\ChiTietTinDangDAO.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:20:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FChiTietTinDang.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FChiTietTinDang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FChiTietTinDang.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FChiTietTinDang.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\FChiTietTinDang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:59:17.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FChangeTinDang.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FChangeTinDang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FChangeTinDang.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FChangeTinDang.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\FChangeTinDang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:13:12.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControlQuanLyTinDang.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlQuanLyTinDang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\UserControlQuanLyTinDang.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlQuanLyTinDang.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\UserControlQuanLyTinDang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:12:20.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FChangeTinDang.cs",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FChangeTinDang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FChangeTinDang.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FChangeTinDang.cs",
+              "RelativeToolTip": "WinFormsApp4\\FChangeTinDang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:13:14.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControlTinDang.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlTinDang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\UserControlTinDang.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlTinDang.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\UserControlTinDang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:20:27.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControlQuanLyTinDang.cs",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlQuanLyTinDang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\UserControlQuanLyTinDang.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlQuanLyTinDang.cs",
+              "RelativeToolTip": "WinFormsApp4\\UserControlQuanLyTinDang.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAApwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:12:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FDangNhap.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FDangNhap.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FDangNhap.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\FDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:18:05.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TinDangDAO.cs",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\TinDangDAO.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\TinDangDAO.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\TinDangDAO.cs",
+              "RelativeToolTip": "WinFormsApp4\\TinDangDAO.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAIAwwHgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:13:55.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FNguoiUngTuyen.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FNguoiUngTuyen.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FNguoiUngTuyen.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FNguoiUngTuyen.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\FNguoiUngTuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:19:16.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.CongTy [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__WINFORMSAPP4__2___1__WINFORMSAPP4__1__WINFORMSAPP4_DATABASEXINVIEC.MDF/True/SqlTable/dbo.CongTy.sql",
+              "ToolTip": "dbo.CongTy [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-11T17:14:46.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FLichSuDangTin.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FLichSuDangTin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FLichSuDangTin.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FLichSuDangTin.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\FLichSuDangTin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:15:27.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserControlKetQua.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlKetQua.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\UserControlKetQua.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlKetQua.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\UserControlKetQua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:12:16.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControlLichSuUngTuyen.cs [Design]",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlLichSuUngTuyen.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\UserControlLichSuUngTuyen.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\UserControlLichSuUngTuyen.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\UserControlLichSuUngTuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:12:15.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FChiTietTinDang.cs",
+              "DocumentMoniker": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FChiTietTinDang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\FChiTietTinDang.cs",
+              "ToolTip": "D:\\WinFormsApp4 (2) (1)\\WinFormsApp4 (1)\\WinFormsApp4\\FChiTietTinDang.cs",
+              "RelativeToolTip": "WinFormsApp4\\FChiTietTinDang.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:59:19.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

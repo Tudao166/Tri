@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[CV] (
+    [hinh_anh]         IMAGE         NULL,
+    [ho_ten]           VARCHAR (255) NULL,
+    [gioi_tinh]        VARCHAR (255) NULL,
+    [ngay_sinh]        DATE          NULL,
+    [email]            VARCHAR (255) NULL,
+    [so_dien_thoai]    VARCHAR (20)  NULL,
+    [dia_chi]          TEXT          NULL,
+    [trinh_do]         VARCHAR (100) NULL,
+    [truong]           VARCHAR (255) NULL,
+    [xep_loai]         VARCHAR (100) NULL,
+    [khoa]             VARCHAR (255) NULL,
+    [ky_nang]          TEXT          NULL,
+    [giai_thuong]      TEXT          NULL,
+    [ngay_lam_viec]    DATE          NULL,
+    [ngay_nghi_viec]   DATE          NULL,
+    [cong_viec]        VARCHAR (255) NULL,
+    [chuc_vu]          VARCHAR (255) NULL,
+    [lich_su_lam_viec] TEXT          NULL,
+    [ky_nang_khac]     TEXT          NULL,
+    [ma_cong_ty]       INT NULL, 
+    [ma_ung_vien] INT NOT NULL, 
+    CONSTRAINT [PK_CV] PRIMARY KEY ([ma_ung_vien])
+);
+
